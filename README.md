@@ -9,7 +9,7 @@
  # --In the root of the project, where is the docker-compose.yml located
 
  # --Run the command:
- ## ---docker-compose up
+ ## ---docker-compose up --build
 
  # --Available at:
  ## ---w-shop.test
